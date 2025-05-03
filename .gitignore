@@ -1,0 +1,41 @@
+# Compiled files
+*.pyc
+__pycache__/
+
+# Virtual environments
+venv/
+.venv/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Node.js dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# IDE settings
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Backup and temporary files
+*.bak
+*.tmp
+
+# Coverage reports
+coverage/
+*.cover
+*.lcov
+
+# Static and media files (if stored locally)
+media/
+staticfiles/
